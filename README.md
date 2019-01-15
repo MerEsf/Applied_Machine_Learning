@@ -1,6 +1,6 @@
 # Applied Machine Learning in Python
 Coursera, Applied Machine Learning in Python course
-## 1: Development of a classifier to help diagnose patients
+## Week 1: Development of a classifier to help diagnose patients
 ### Dataset: Breast Cancer Wisconsin (Diagnostic) Database
 ### Method: knn classifier
 ![alt text](https://github.com/MerEsf/Applied_Machine_Learning/blob/master/Pics/1.png)
