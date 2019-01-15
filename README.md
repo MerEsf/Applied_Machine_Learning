@@ -1,5 +1,20 @@
 # Applied Machine Learning in Python
 Coursera, Applied Machine Learning in Python course
+## 1: Development of a classifier to help diagnose patients
+### Dataset: Breast Cancer Wisconsin (Diagnostic) Database
+### Method: knn classifier
+![alt text](https://github.com/MerEsf/Applied_Machine_Learning/blob/master/Pics/1.png)
+
+
+
+
+
+
+
+
+
+
+
 ## Module 1: Fundamentals of Machine Learning - Intro to SciKit Learn
 This module introduces basic machine learning concepts, tasks, and workflow using an example classification problem based on the K-nearest neighbors method, and implemented using the scikit-learn library
 ## Module 2: Supervised Machine Learning - Part 1
