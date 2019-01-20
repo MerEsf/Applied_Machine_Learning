@@ -5,6 +5,8 @@ Coursera, Applied Machine Learning in Python course
 Breast Cancer Wisconsin (Diagnostic) Database
 ### Method: 
 knn classifier
+
+
 ![alt text](https://github.com/MerEsf/Applied_Machine_Learning/blob/master/Pics/1.png)
 
 ## Week 4: Predicting Property Maintenance Fines in Detroit
