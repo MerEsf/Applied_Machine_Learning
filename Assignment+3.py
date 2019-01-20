@@ -125,7 +125,7 @@ def answer_six():
     get_ipython().magic('matplotlib notebook')
     import seaborn as sns
     import matplotlib.pyplot as plt
-    lt.figure()
+    plt.figure()
     sns.heatmap(scores.reshape(5,2), xticklabels=['l1','l2'], yticklabels=[0.01, 0.1, 1, 10, 100])
     plt.yticks(rotation=0);
 
