@@ -8,7 +8,7 @@ Understanding when and why a resident might fail to comply with a blight ticket
 ### Dataset:
 Detroit Open Data Portal (https://data.detroitmi.gov/)
 ### Approach: 
-Predict whether a given blight ticket will be paid on time (the probability that the corresponding blight ticket will be paid on time) using random forest classifer
+Predict whether a given blight ticket will be paid on time (the probability that the corresponding blight ticket will be paid on time) using random forest classifier
 ### Evaluation: 
 Area Under the ROC Curve (AUC)
 
